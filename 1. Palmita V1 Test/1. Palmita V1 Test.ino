@@ -6,8 +6,8 @@
 
 // PINOUT PALMITA
 
-#define RX_GSM 14
-#define TX_GSM 12
+#define RX_GSM 19
+#define TX_GSM 23
 
 // Seleccion Modem SIMCom SIM800L
 #define TINY_GSM_MODEM_SIM800
